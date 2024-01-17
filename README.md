@@ -81,7 +81,7 @@ In this project I aim to explore a broad range of machine learning projects to b
 
 ### 6. Random Forest
 **Project Idea**: Credit Card Fraud Detection
-- **Description**: Use a dataset with credit card transactions to identify fraudulent activities using a random forest classifier.
+- **Description**: Use a dataset with credit card transactions (i.e. Credit Card Fraud Detection on Kaggle) to identify fraudulent activities using a random forest classifier.
 - **Skills Practiced**: Imbalanced dataset handling, feature importance analysis, random forest tuning, evaluation metrics for classification.
 
 ### 7. Support Vector Machines (SVM)
@@ -96,7 +96,7 @@ In this project I aim to explore a broad range of machine learning projects to b
 
 ### 9. K-Means Clustering
 **Project Idea**: Customer Segmentation
-- **Description**: Use a dataset containing customer data (like shopping habits, demographics, etc.) to segment customers into different groups based on similar characteristics.
+- **Description**: Use a dataset containing customer data (i.e. Mall Customer Segmentation Data on Kaggle) to segment customers into different groups based on similar characteristics.
 - **Skills Practiced**: Data preprocessing, feature selection, K-means clustering, cluster evaluation, and interpretation.
 
 ### 10. Hierarchical Clustering
@@ -111,12 +111,12 @@ In this project I aim to explore a broad range of machine learning projects to b
 
 ### 12. Gaussian Mixture Models
 **Project Idea**: Image Segmentation
-- **Description**: Apply Gaussian Mixture Models for segmenting parts of an image or for background-foreground separation.
+- **Description**: Apply Gaussian Mixture Models for segmenting parts of an image or for background-foreground separation, i.e. on Berkeley's Segmentation Dataset.
 - **Skills Practiced**: Understanding mixture models, Expectation-Maximization algorithm, image preprocessing.
 
 ### 13. Ridge/Lasso Regression
 **Project Idea**: Real Estate Valuation
-- **Description**: Predict the value of properties using a dataset with real estate features. Focus on using Ridge and Lasso regression to understand the impact of regularization.
+- **Description**: Predict the value of properties using a dataset with real estate features, i.e. Real Estate Price Prediction on Kaggle. Focus on using Ridge and Lasso regression to understand the impact of regularization.
 - **Skills Practiced**: Feature selection, regularization techniques, model tuning, and comparison between Ridge and Lasso regression.
 
 ### 14. Gradient Boosting Machines
@@ -149,7 +149,7 @@ In this project I aim to explore a broad range of machine learning projects to b
 
 ### 18. Generative Adversarial Networks (GANs)
 **Project Idea**: Generating New Artwork
-- **Description**: Use a GAN to generate new images that mimic the style of a given art dataset. This could be modern art, classic paintings, or any other consistent style of imagery.
+- **Description**: Use a GAN to generate new images that mimic the style of a given art dataset. This could be modern art, classic paintings, or any other consistent style of imagery. Input can come from WikiArt Dataset, for example.
 - **Skills Practiced**: Understanding GAN architecture, training GANs, dealing with convergence issues, creativity in AI.
 
 ### 19. Variational Autoencoders (VAEs)
@@ -159,25 +159,25 @@ In this project I aim to explore a broad range of machine learning projects to b
 
 ### 20. Natural Language Processing (NLP)
 a. **Text Classification Project Idea**: Sentiment Analysis on Social Media Posts
-   - **Description**: Analyze social media posts (like tweets) to classify sentiments as positive, negative, or neutral. Datasets are readily available online.
+   - **Description**: Analyze social media posts (like tweets) to classify sentiments as positive, negative, or neutral. Datasets are readily available online. See Sentiment120 for an example dataset.
    - **Skills Practiced**: Text preprocessing, working with NLP libraries, training classification models, handling imbalanced text data.
 
 b. **Language Translation Project Idea**: Building a Simple Machine Translation System
-   - **Description**: Create a basic machine translation system (like English to Spanish) using sequence-to-sequence models or Transformer-based models.
+   - **Description**: Create a basic machine translation system (like English to Spanish) using sequence-to-sequence models or Transformer-based models. See WMT'14 English to German for example.
    - **Skills Practiced**: Sequence modeling, understanding of attention mechanisms, working with large text datasets.
 
 ### 21. Computer Vision
 a. **Image Classification Project Idea**: Classifying Different Types of Vehicles
-   - **Description**: Use a dataset containing images of various vehicles to build a model that can classify them (cars, trucks, bikes, etc.).
+   - **Description**: Use a dataset containing images of various vehicles to build a model that can classify them (cars, trucks, bikes, etc.). See CIFAR-100.
    - **Skills Practiced**: CNN architectures, image preprocessing, handling multi-class classification problems.
 
 b. **Object Detection Project Idea**: Real-Time Object Detection
-   - **Description**: Implement a real-time object detection system using pre-trained models like YOLO or SSD on a video stream.
+   - **Description**: Implement a real-time object detection system using pre-trained models like YOLO or SSD on a video stream. See COCO.
    - **Skills Practiced**: Understanding object detection algorithms, real-time processing, working with video data.
 
 ### 22. Transformer Models
 **Project Idea**: Text Summarization Tool
-- **Description**: Build a tool that can summarize long pieces of text using Transformer models like BERT or GPT.
+- **Description**: Build a tool that can summarize long pieces of text using Transformer models like BERT or GPT. See CNN/Daily Mail dataset.
 - **Skills Practiced**: Understanding Transformer architecture, fine-tuning pre-trained models, NLP pipelines.
 
 ### 23. Q-Learning
@@ -202,17 +202,17 @@ b. **Object Detection Project Idea**: Real-Time Object Detection
 
 ### 27. Graph Neural Networks
 **Project Idea**: Social Network Analysis
-- **Description**: Use a graph neural network to analyze social networks, like predicting user characteristics or identifying influential users.
+- **Description**: Use a graph neural network to analyze social networks, like predicting user characteristics or identifying influential users. See Zachary's Karate Club.
 - **Skills Practiced**: Handling graph-structured data, implementing GNNs, node classification, and graph embedding.
 
 ### 28. Bayesian Networks
 **Project Idea**: Disease Diagnosis System
-- **Description**: Create a Bayesian network model for medical diagnosis, predicting the probability of certain diseases based on symptoms and patient data.
+- **Description**: Create a Bayesian network model for medical diagnosis, predicting the probability of certain diseases based on symptoms and patient data. See Breast Cancer Wisconsin (Diagnostic).
 - **Skills Practiced**: Understanding probabilistic graphical models, conditional probability, inference in Bayesian networks.
 
 ### 29. Evolutionary Algorithms
 **Project Idea**: Optimizing Neural Network Architectures
-- **Description**: Use evolutionary algorithms to find optimal architectures for neural networks on a specific task, like image classification.
+- **Description**: Use evolutionary algorithms to find optimal architectures for neural networks on a specific task, like image classification. See MNIST.
 - **Skills Practiced**: Implementing genetic algorithms, neural architecture search, understanding fitness functions and selection mechanisms.
 
 ### 30. Time Series Analysis
@@ -222,7 +222,7 @@ b. **Object Detection Project Idea**: Real-Time Object Detection
 
 ### 31. Recommender Systems
 **Project Idea**: Movie Recommender System
-- **Description**: Build a system to recommend movies to users based on their past ratings using collaborative filtering or content-based methods.
+- **Description**: Build a system to recommend movies to users based on their past ratings using collaborative filtering or content-based methods. See MovieLens 100k version.
 - **Skills Practiced**: Understanding user-item interaction, matrix factorization, handling sparse data.
 
 ### 32. Multi-Agent Systems
@@ -232,7 +232,7 @@ b. **Object Detection Project Idea**: Real-Time Object Detection
 
 ### 33. Capsule Networks
 **Project Idea**: Advanced Image Classification
-- **Description**: Implement a Capsule Network to classify complex images, such as those with overlapping objects or varied orientations, and compare its performance with traditional CNNs.
+- **Description**: Implement a Capsule Network to classify complex images, such as those with overlapping objects or varied orientations, and compare its performance with traditional CNNs. See Fashion-MNIST.
 - **Skills Practiced**: Understanding dynamic routing, spatial hierarchies in data, advanced neural network architectures.
 
 ### 34. Inverse Reinforcement Learning
