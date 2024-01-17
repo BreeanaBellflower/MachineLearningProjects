@@ -42,7 +42,7 @@ In this project I aim to explore a broad range of machine learning projects to b
 25. **Policy Gradient Methods**
 26. **Actor-Critic Methods**
 
-### Phase 8: Advanced Topics & Specialized Models
+### Phase 8: Specialized Models
 27. **Graph Neural Networks**
 28. **Bayesian Networks**
 29. **Evolutionary Algorithms**
