@@ -55,8 +55,9 @@ In this project I aim to explore a broad range of machine learning projects to b
 ## Projects
 
 ### 1. Linear Regression
-**Project Idea**: Predicting Housing Prices
-- **Description**: Use a dataset like the Boston Housing Dataset to predict the prices of houses based on various features like crime rate, property tax rate, number of rooms, etc.
+**Project Idea**: Predicting Life Expectancy
+
+- **Description**: The dataset on the WHO's life expectancy from Kaggle contains various attributes related to life expectancy and health factors for countries over several years. It includes aspects like life expectancy at birth, adult mortality rates, infant deaths, alcohol consumption rates, percentage expenditure on health, Hepatitis B immunization coverage, measles cases, BMI, under-five deaths, polio immunization coverage, total expenditure on health as a percentage of GDP, Diphtheria immunization coverage, HIV/AIDS prevalence, GDP per capita, population, thinness in children and adolescents, income composition of resources, and schooling years.
 - **Skills Practiced**: Data preprocessing, feature selection, linear regression modeling, model evaluation.
 
 ### 2. Logistic Regression
