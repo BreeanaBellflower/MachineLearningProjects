@@ -8,24 +8,24 @@ Skills Practiced: Data preprocessing, feature selection, linear regression model
 
 ## Attributes
 Country - String
-Year - Integer
-Status - String (categorical, indicating whether a country is 'Developed' or 'Developing')
-Life Expectancy - Float
-Adult Mortality - Float
-Infant Deaths - Integer
-Alcohol - Float
-Percentage Expenditure - Float
-Hepatitis B - Float
-Measles - Integer
-BMI - Float
-Under-Five Deaths - Integer
-Polio - Float
-Total Expenditure - Float
-Diphtheria - Float
-HIV/AIDS - Float
-GDP - Float
-Population - Float (or String, depending on the format of the data)
-Thinness 1-19 years - Float
-Thinness 5-9 years - Float
-Income Composition of Resources - Float
-Schooling - Float
+- Year - Integer
+- Status - String (categorical, indicating whether a country is 'Developed' or 'Developing')
+- Life Expectancy - Float
+- Adult Mortality - Float
+- Infant Deaths - Integer
+- Alcohol - Float
+- Percentage Expenditure - Float
+- Hepatitis B - Float
+- Measles - Integer
+- BMI - Float
+- Under-Five Deaths - Integer
+- Polio - Float
+- Total Expenditure - Float
+- Diphtheria - Float
+- HIV/AIDS - Float
+- GDP - Float
+- Population - Float (or String, depending on the format of the data)
+- Thinness 1-19 years - Float
+- Thinness 5-9 years - Float
+- Income Composition of Resources - Float
+- Schooling - Float
